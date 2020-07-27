@@ -13,7 +13,7 @@ otufile: OTU abundances (CSV)
 mapping: Mapping table (CSV)
 tree: Phylogenetic tree (CSV)
 
-Metrics are then generated in the output CSV file, with rows corresponding to taxa and columns to metrics.
+Metrics are then generated in the output CSV file, with rows corresponding to samples and columns to metrics.
 
 Format of the otufile CSV:
 - Rows are OTUs, columns are samples
