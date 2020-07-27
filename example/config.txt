@@ -1,0 +1,2 @@
+Prefix plugins/Evenness/example
+Plugin Evenness inputfile parameters.txt outputfile evenness.csv
